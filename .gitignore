@@ -1,4 +1,8 @@
 .venv/*
 .venv*
 *.pyc
+<<<<<<< HEAD
 .env
+=======
+flipzen-frontend/node_modules/
+>>>>>>> 86e683a47094c1bfbbe2c56e05b8125e2a3f2dea
