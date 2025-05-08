@@ -154,6 +154,12 @@ You can run the agent directly using the provided script:
 python main.py
 ```
 
+## Docker Setup
+
+```bash
+docker-compose up --build
+```
+
 This will show you example usage and offer to run a demo with a sample entity.
 
 ### Using in Your Code
