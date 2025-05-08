@@ -1,0 +1,15 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./src/agent/graph.py:graph"
+  },
+  "env": ".env",
+  "default_config": {
+    "configurable": {
+      "model": "gpt-4",
+      "search_top_k": 5,
+      "risk_threshold": "Low",
+      "analysis_temperature": 0.7
+    }
+  }
+}
